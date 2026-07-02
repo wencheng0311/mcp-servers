@@ -91,3 +91,8 @@ smithery/config-ywl5
 MIT
 This project is licensed under the MIT License - see the LICENSE file for details.
 main
+
+
+## BrowserAct
+
+Browser automation CLI for AI agents.
